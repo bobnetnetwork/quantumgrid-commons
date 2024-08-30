@@ -1,4 +1,4 @@
-package com.bobnet.network.quantumgrid.commons.exceptions;
+package network.bobnet.quantumgrid.commons.exceptions;
 
 /**
  * The abstract base class for all application-specific exceptions.

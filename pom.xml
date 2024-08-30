@@ -8,7 +8,7 @@
 		<version>3.3.3</version>
 		<relativePath/>
 	</parent>
-	<groupId>com.bobnet.network.quantumgrid</groupId>
+	<groupId>network.bobnet.quantumgrid</groupId>
 	<artifactId>commons</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Commons</name>
